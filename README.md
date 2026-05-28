@@ -32,4 +32,6 @@ This was my first game development project and helped me learn:
 * Collision systems
 * Debugging and gameplay design fundamentals
 
+## 💾 Download
+Get the latest version from the [Official Game Releases](sha256:73632b73852755e1438db0739c58937b5bb5192d915deff5af8b2570907b0d09) page.
 

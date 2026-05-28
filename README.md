@@ -32,5 +32,5 @@ This was my first game development project and helped me learn:
 * Collision systems
 * Debugging and gameplay design fundamentals
 
-## 💾 Download
+## Download
 Get the latest version from the [New Release](https://github.com/nekelmitchell/Hobby/releases/tag/v1.0.0#:~:text=Create%20README.md-,Assets,-3) page.
